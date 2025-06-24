@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification - Softmax Regression from Scratch
+# Iris Flower Classification - Softmax Regression from Scratch
 
 This project demonstrates how to build a **multiclass classifier** for the famous Iris dataset using **softmax regression (multinomial logistic regression)** implemented **entirely from scratch** using **NumPy** and **Pandas**.
 
@@ -38,13 +38,13 @@ The [Iris dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset) c
 
 ---
 
-## 📈 Accuracy
+## Accuracy
 
 - Training Accuracy: **96.6%**
 
 ---
 
-## 📷 Visualization
+## Visualization
 
 Scatter plot of first two features colored by species:
 
@@ -53,7 +53,7 @@ Scatter plot of first two features colored by species:
 
 ---
 
-## 🧪 Usage
+## Usage
 
 ```bash
 # Clone this repo
